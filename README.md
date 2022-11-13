@@ -1,2 +1,2 @@
 # biblidev_app
-Repositório para 'BibliDev - APP'
+Projeto Biblidev - PI 2ºSemestre 2021
