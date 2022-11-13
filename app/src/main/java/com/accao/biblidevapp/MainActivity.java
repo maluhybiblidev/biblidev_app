@@ -19,7 +19,6 @@ public class MainActivity extends AppCompatActivity {
         webView.setWebViewClient( new WebViewClient() );
 
         webView.getSettings().setJavaScriptEnabled(true);
-
         webView.getSettings().setDomStorageEnabled(true);
 
         webView.loadUrl("https://obscure-atoll-49504.herokuapp.com/");
